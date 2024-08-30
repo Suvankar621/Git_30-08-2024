@@ -21,3 +21,6 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('google.com')
 
+
+WebUI.maximizeWindow()
+
